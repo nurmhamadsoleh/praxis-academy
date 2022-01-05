@@ -2,7 +2,7 @@
 
 1.Create Organisasi Github
 
-![](media/team colab.PNG)
+![](media/team_colab.PNG)
 
 2.Add Team Join Organisasi Github
 

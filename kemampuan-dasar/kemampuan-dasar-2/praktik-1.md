@@ -14,7 +14,7 @@
 
 4.Mengecek sukses atau tidaknya commit dengan git status dan git diff
 
-![](media/git status.PNG)
+![](media/git_status.PNG)
 
 5.Tambahkan keterangan untuk repo dengan menggunakan echo
 
@@ -27,7 +27,7 @@
 7.Selanjutnya, mendownload file yang ada untuk ke tahap selanjutnya, jalankan
 perintah add dan commit.
 
-![](media/download file.PNG)
+![](media/download_file.PNG)
 
 8.Untuk menanmbahkan langsung juga bisa dengan commit satu kali operasi
 
@@ -35,11 +35,11 @@ perintah add dan commit.
 
 9.Mengecek log atau riwayat hasil dari commit yang telah dilakukan
 
-![](media/git log.PNG)
+![](media/git_log.PNG)
 
 10.Selanjutnya, set up repo dengan local agar terhubung
 
-![](media/git remote.PNG)
+![](media/git_remote.PNG)
 
 11.Setelah terhubung, file yang ada di local sudah bisa di push agar tersimpan
 di repository.

@@ -14,4 +14,4 @@
 
 4. Repository Team
 
-![](media/repository team.PNG)
+![](media/repository_team.PNG)

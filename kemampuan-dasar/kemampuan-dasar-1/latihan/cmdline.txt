@@ -1,0 +1,22 @@
+20 Daftar Commad Line Windows
+
+date --> menampilkan Date & Time Zone untuk saat ini/ Real Time
+mkdir (nama folder)--> untuk membuat direktori / folder baru
+cd --> digunakan untuk perpindah direktori
+ls --> untuk menapilkan daftar nama file atau folder/direktori 
+pwd --> diguanakan untuk melihat/mengecek posisi saat ini
+code . --> untuk membuka teks editor seperti visual studio code
+rmdir --> untuk menghapus direktori/folder
+rm --> untuk mengapus folder/direktori sekaligus isi file yang ada di dalam derektori/folder
+ping (dns google) --> Melakuka cek koneksi internet anda ke server stabil atau tidak
+systeminfo --> untuk memberikan informasi detail dari system operasi & juga informasi detail terkait hardware yang di gunakan.
+$teks = "halo, nama saya nur muhamad soleh" --> Membuat Variabel dengan nilai data bertype strings
+$teks  -> Output dari hasil penulisan strings dalam sebuah variabel
+$array = 4,5,6 --> untuk menyimpan type data array
+$array[0] --> untuk menampilkan array dengan index 0
+$array.Length --> untuk menampilkan jumlah isi data array
+$teks1 + " " + $teks2 = Mengabungkan 2 buah string dengan variabel yang berbeda
+($teks1 + $teks2).Length = Menghitung jumlah karater setelah digabungkan.
+Get-Service --> Untuk menampilkan daftar service yang terpasang pada komputer
+Get-Service M --> untuk menampilkan daftar semua service yang dimulai dengan huruf M
+Get-Command -->Untuk menampilkan daftar perintah yang tersedia di powershell
